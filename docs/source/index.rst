@@ -41,7 +41,7 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 2
-   :caption: _CONTRIBUTIND_ _TO_ _ISSPA_
+   :caption: CONTRIBUTIND TO ISSPA
    :hidden:
 
    /cotributing_to_isspa/mapping_plugin.rst
