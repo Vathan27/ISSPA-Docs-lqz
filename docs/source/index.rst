@@ -22,53 +22,17 @@ in the top left corner.
 
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Build and Drive
-   :name: sec-getting-started
+   :maxdepth: 2
+   :caption: QUICK START
    :hidden:
 
-   getting_started/intro
-   getting_started/build_car/index
-   getting_started/software_setup/index
-   getting_started/firmware/index
-   getting_started/driving/index
-
+   /tutorial/index
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Simulate
-   :name: sec-forward
+   :maxdepth: 2
+   :caption: COMPONENTS
    :hidden:
 
-   going_forward/simulator/index
-..
-   going_forward/drive_rosbag
-   going_forward/simulation/index
-   going_forward/algorithms/index
+   /componets/mapping.rst
+   /componets/navigation.rst
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Autoware @ F1TENTH
-   :name: sec-autoware
-   :hidden:
-
-   autoware/intro
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Support
-   :name: sec-support-contact
-   :hidden:
-
-   getting_started/faq
-   support/contact
-   support/acknowledgment
-
-
-.. Indices and tables
-.. ------------------
-..
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
