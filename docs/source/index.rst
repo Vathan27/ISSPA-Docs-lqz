@@ -1,7 +1,7 @@
 Welcome to ISSPA-lqz's documentation!
 ===================================
 
-**ISSPA (Intelligent Self-driving System empowering Physical Agent)** is an experimental platform for 
+**ISSPA-lqz (Intelligent Self-driving System empowering Physical Agent)** is an experimental platform for 
 self-driving physical agents, which was originally designed to facilitate researchers by creating a 
 baseline library that is easy to use, algorithmically verifiable, and modularly extensible. And it was 
 built under the leadership of the `TIS Lab <https://tis.ios.ac.cn/>`_, of which the team members 
