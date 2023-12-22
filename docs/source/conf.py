@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'ISSPA'
+project = 'ISSPA-lqz'
 copyright = '2023, ISCAS'
 author = 'ISCAS'
 
