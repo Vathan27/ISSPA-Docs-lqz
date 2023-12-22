@@ -28,10 +28,6 @@ in the top left corner.
 
    /tutorial/index
 
-.. raw:: html
-
-   <hr>  <!-- 这里是下划线 -->
-   
 .. toctree::
    :maxdepth: 2
    :caption: COMPONENTS
