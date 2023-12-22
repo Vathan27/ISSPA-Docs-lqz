@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Simulate
+   :name: sec-forward
    :hidden:
-   :maxdepth: 0
-
-   Separator
