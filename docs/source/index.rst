@@ -33,6 +33,6 @@ in the top left corner.
    :caption: COMPONENTS
    :hidden:
 
-   /componets/mapping.rst
-   /componets/navigation.rst
+   /components/mapping.rst
+   /components/navigation.rst
 
