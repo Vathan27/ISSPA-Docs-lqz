@@ -1,2 +1,2 @@
-Navigation componet tutorial
+Navigation
 ======================

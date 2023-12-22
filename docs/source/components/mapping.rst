@@ -1,2 +1,2 @@
-Mapping componet tutorial
+Mapping
 ======================
