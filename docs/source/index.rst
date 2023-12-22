@@ -23,7 +23,7 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 2
-   :caption: QUICK START
+   :caption: TUTORIAL
    :hidden:
 
    /tutorial/index

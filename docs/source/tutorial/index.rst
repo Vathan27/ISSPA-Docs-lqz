@@ -1,4 +1,4 @@
-HOW TO USE
+Quick start
 ======================
 
 In this tutorial you will create a documentation project on Read the Docs
