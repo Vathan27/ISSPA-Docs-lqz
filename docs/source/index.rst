@@ -30,9 +30,28 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 2
-   :caption: COMPONENTS
+   :caption: ISSPA COMPONENTS
    :hidden:
 
+   /components/chassis.rst
+   /components/sensors.rst
    /components/mapping.rst
    /components/navigation.rst
+   /components/detection.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: _CONTRIBUTIND_ _TO_ _ISSPA_
+   :hidden:
+
+   /cotributing_to_isspa/mapping_plugin.rst
+   /cotributing_to_isspa/navigation_plugin.rst
+   /cotributing_to_isspa/detection_plugin.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ABOUT US
+   :hidden:
+
+   /about_us/contributor.rst
 
