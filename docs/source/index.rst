@@ -21,10 +21,9 @@ documentation for your topic of interest. You can also use the search function
 in the top left corner.
 
 
-QUICK START
-===========
 .. toctree::
    :maxdepth: 2
+   :caption: QUICK START
    :hidden:
 
    /tutorial/index
