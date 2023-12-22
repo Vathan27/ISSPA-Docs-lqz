@@ -44,9 +44,9 @@ in the top left corner.
    :caption: CONTRIBUTIND TO ISSPA
    :hidden:
 
-   /cotributing_to_isspa/mapping_plugin.rst
-   /cotributing_to_isspa/navigation_plugin.rst
-   /cotributing_to_isspa/detection_plugin.rst
+   /contributing_to_isspa/mapping_plugin.rst
+   /contributing_to_isspa/navigation_plugin.rst
+   /contributing_to_isspa/detection_plugin.rst
 
 .. toctree::
    :maxdepth: 2
