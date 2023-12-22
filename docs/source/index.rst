@@ -23,14 +23,14 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 2
-   :caption: QUICK START
+   :caption: 🚀 QUICK START
    :hidden:
 
    /tutorial/index
 
 .. toctree::
    :maxdepth: 2
-   :caption: COMPONENTS
+   :caption: 🚀 COMPONENTS
    :hidden:
 
    /components/mapping.rst
